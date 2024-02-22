@@ -1,6 +1,5 @@
 import './App.css'
 import AllRoutes from './components/AllRoutes';
-//import { GridBackgroundDemo } from './pages/waves'
 import { ThemeProvider } from './components/theme-provider'
 import Footer from "@/components/Footer";
 import Navbar from "@/components/Navbar";
